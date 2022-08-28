@@ -5,6 +5,7 @@ A simple chat application using FastAPI which is a high performance framework th
 The app  will have two pages:
 - Home page:- Where users will have to register themselves by just entering their name.
 - Chat page:- This is where users can start chatting with other connected users.
+
 Application:
 ![Screenshot](screenshot.png)
 
