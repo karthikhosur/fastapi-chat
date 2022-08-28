@@ -6,7 +6,7 @@ The app  will have two pages:
 - Home page:- Where users will have to register themselves by just entering their name.
 - Chat page:- This is where users can start chatting with other connected users.
 
-Application:
+## Application:
 ![Screenshot](screenshot.png)
 
 
